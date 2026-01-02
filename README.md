@@ -1,14 +1,11 @@
 # PVE-Manager-remix
 ALRCMt 合并的超级屎中屎ProxmoxVE 节点概要页面扩展的硬件监控信息
 
+<img width="200" alt="image" src="./meme1.png" />
 
 我本人几乎没有做任何贡献，只是合并了两个大佬的脚本  
 原库1：https://github.com/MiKing233/PVE-Manager-Status  
 原库2：https://github.com/a904055262/PVE-manager-status  
-
-
-<img width="200" alt="image" src="./meme.png" />
-
 
 目前的脚本更加符合AMD使用（也许？反正我还行）  
 去除了a904055262大佬脚本的CPU频率相关内容，去除了MiKing233大佬的SATA与NVme硬盘相关内容  
