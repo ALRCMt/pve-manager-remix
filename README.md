@@ -1,5 +1,5 @@
 # PVE-Manager-remix
-ALRCMt 合并的超级屎中屎ProxmoxVE 节点概要页面扩展的硬件监控信息
+ALRCMt 合并的超级屎中屎ProxmoxVE 节点概要页面的硬件监控信息
 
 <img width="200" alt="image" src="./meme1.png" />
 
