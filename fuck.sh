@@ -77,8 +77,9 @@ echo "新备份生成: ${pvemanagerlib}.${pvever}.bak ✅"
 ####################   依赖检查 & 环境准备   ####################
 
 # 避免重复修改, 重装 pve-manager
-# echo -e "\n♻️ 避免重复修改, 重新安装 pve-manager..."
-# apt-get install --reinstall -y pve-manager
+ echo -e "\n♻️ 避免重复修改, 重新安装 pve-manager..."
+ apt-get install --reinstall -y pve-manager
+ sed -i '176s/^/# /' /usr/share/perl5/PVE/Service/pvestatd.pm
 
 # 软件包依赖
 echo -e "\n🗃️ 检查依赖软件包安装情况..."
