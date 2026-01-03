@@ -20,7 +20,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ALRCMt/pve-manager-remix
 ``` bash
 apt install --reinstall pve-manager
 ```
-> 不知道为什么我重新安装pve-manager会导致pvestatd.pm报错，所以我设置了注释pvestatd.pm的176行
+> 不知道为什么我重新安装pve-manager会导致pvestatd.pm报错，所以我设置了注释pvestatd.pm的176行  
 > 不确保其它人与我一样，所以请自行改动
 
 预览如下  
