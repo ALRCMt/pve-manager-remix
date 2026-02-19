@@ -20,9 +20,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ALRCMt/pve-manager-remix
 ``` bash
 apt install --reinstall pve-manager
 ```
-> 不知道为什么我重新安装pve-manager会导致pvestatd.pm报错，所以我设置了注释pvestatd.pm的176行  
-> 不确保其它人与我一样，所以请自行改动  
-> 2026.2.14注：是当初撤销PVE8升PVE9时的历史遗留问题导致pvestatd.pm报错
+> ~~不知道为什么我重新安装pve-manager会导致pvestatd.pm报错，所以我设置了注释pvestatd.pm的176行~~   
+> 2026.2.14注：是当初撤销PVE8升PVE9时的历史遗留问题导致pvestatd.pm报错，目前完全正常
 
 预览如下  
 
