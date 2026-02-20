@@ -10,7 +10,7 @@ https://github.com/a904055262/PVE-manager-status
 
 The current script is more suitable for AMD usage (maybe?).
 It integrates the SATA and NVMe hard disk-related content from a904055262's script and the CPU frequency and power consumption-related content from MiKing233's script.
-Since I am a novice, I follow the principle of "if it works, don't change it," so the script is very redundant. I don't want to care.
+Since I am a novice, I follow the principle of "if it works, don't change it," so the script is very redundant. I don't want to care.  
 <img width="200" alt="image" src="/images/meme1.png" />
 
 One-click script, after execution, refresh using Ctrl + F5:
