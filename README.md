@@ -11,7 +11,7 @@ https://github.com/a904055262/PVE-manager-status
 目前的脚本更加符合AMD使用（也许？）  
 合并了a904055262大佬脚本的SATA与NVme硬盘相关内容，合并了MiKing233大佬的CPU频率功耗等相关内容  
 因为我是小白，本着能用就绝不改，所以很冗余，不管了  
-<img width="200" alt="image" src="./meme1.png" />
+<img width="200" alt="image" src="/images/meme1.png" />
 
 一键脚本，执行完毕后, 使用 Ctrl + F5 刷新
 ``` bash
@@ -27,6 +27,6 @@ apt install --reinstall pve-manager
 
 预览如下  
 
-![view](./view.png)
+![view](/images/view.png)
 
 
