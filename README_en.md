@@ -15,7 +15,7 @@ Since I am a novice, I follow the principle of "if it works, don't change it," s
 
 One-click script, after execution, refresh using Ctrl + F5:
 ``` bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/ALRCMt/pve-manager-remix/refs/heads/main/merged-script.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ALRCMt/pve-manager-remix/refs/heads/main/merged-script-en.sh)"
 ```
 
 If an error occurs, restore by reinstalling pve-manager with the following command:
