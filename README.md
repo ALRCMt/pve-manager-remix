@@ -3,6 +3,7 @@
 | 简体中文 | [English](/README_en.md) |
 
 ALRCMt 合并的ProxmoxVE 节点概要页面的硬件监控信息
+目前已适配PVE 9.x 环境
 
 我本人只做了一些融合和防冲突的工作，概要内容完全是以下两位大佬的，感谢大佬的贡献  
 https://github.com/MiKing233/PVE-Manager-Status   
